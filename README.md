@@ -9,7 +9,7 @@
     b.	Linking multiple containers manually and with the use of docker-compose
     c.	Can use docker-machine to spin up remote servers from different cloud providers as well as regular VPS servers
     d.	Have played with docker-swarm
-    e.	Can push an image to both [Docker Hub](https://hub.docker.com/) and a private registry like [gitlab](https://gitlabe.com
+    e.	Can push an image to both [Docker Hub](https://hub.docker.com/) and a private registry like [gitlab](https://gitlab.com)
 
 3.	You know what Continuous Integration and Continuous Delivery means and can set up one with [Gitlab](https://about.gitlab.com/features/gitlab-ci-cd/)
 4.	Understands both pre and post git hooks and is comfortable writing shell scripts
