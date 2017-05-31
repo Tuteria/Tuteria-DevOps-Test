@@ -14,7 +14,7 @@ e.	Can push an image to both dockerhub and a private registry like gitlab
 6.	Basic linux security practices like avoiding root account in ssh, setting up firewall in a vps
 7.	Experience with the python programming language and familiarity with deployment tools such as ansible, fabric, saltstack, chef, puppet etc.
 
-The test is to create either a bitbucket or a gitlab pipeline that can automatically run the tests on <Developer Repository>. 
+The test is to create either a bitbucket or a gitlab pipeline that can automatically run the tests on https://github.com/Tuteria/Recruitment-test.git. 
 
 The repository(ies) should be publicly accessible and the links should be sent as an issue to this repository on github.
 
