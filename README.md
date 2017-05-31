@@ -21,10 +21,10 @@ etc.
 
 The test is to create either a bitbucket or a gitlab pipeline that can automatically run the tests on https://github.com/Tuteria/Recruitment-test.git. 
 
-The repository(ies) should be publicly accessible and the links should be sent as an issue to this repository on github.
+The repository(ies) should be publicly accessible and the links should be sent as an [issue](https://guides.github.com/features/issues/) to this repository on github.
 
 And finally, the containers should be saved on gitlabs private registry for whatever repository you use. 
 
 #### NB: For the private registry, this can only be done on gitlab but if you can find any other private registry for free, You can go ahead and use them.
 
-For any question or more explanation, please place an issue on this repository
+For any question or more explanation, please place an [issue](https://guides.github.com/features/issues/) on this repository
