@@ -15,7 +15,11 @@ e.	Can push an image to both dockerhub and a private registry like gitlab
 7.	Experience with the python programming language and familiarity with deployment tools such as ansible, fabric, saltstack, chef, puppet etc.
 
 The test is to create either a bitbucket or a gitlab pipeline that can automatically run the tests on <Developer Repository>. 
+
 The repository(ies) should be publicly accessible and the links should be sent as an issue to this repository on github.
-And finally, the containers should be saved on gitlabs private registry for whatever repository you use. This can only be done on gitlab. 
+
+And finally, the containers should be saved on gitlabs private registry for whatever repository you use. 
+
+### NB: This can only be done on gitlab. 
 
 For any question or more explanation, please place an issue on this repository
