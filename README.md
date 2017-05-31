@@ -25,6 +25,6 @@ The repository(ies) should be publicly accessible and the links should be sent a
 
 And finally, the containers should be saved on gitlabs private registry for whatever repository you use. 
 
-#### NB: For the private registry, this can only be done on gitlab. 
+#### NB: For the private registry, this can only be done on gitlab but if you can find any other private registry for free, You can go ahead and use them.
 
 For any question or more explanation, please place an issue on this repository
